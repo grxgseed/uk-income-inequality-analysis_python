@@ -55,6 +55,12 @@ These charts highlight trends in income distribution and provide insight into ch
 * pandas
 * matplotlib
 
+## Example Output
+
+<img width="793" height="600" alt="image" src="https://github.com/user-attachments/assets/dec4c4ee-a9d7-4069-83c1-112589dc65cf" />
+<img width="781" height="603" alt="image" src="https://github.com/user-attachments/assets/d39bd00b-05d6-4f75-b91c-59f2e1466dba" />
+<img width="745" height="593" alt="image" src="https://github.com/user-attachments/assets/2e06fab8-9e52-4307-a61c-2098dda8ce2b" />
+
 ## File
 
 * `uk_income_analysis.ipynb` – full analysis notebook
